@@ -3,19 +3,19 @@ Public dataset developed by KICT_INTFLOW for IITP AI GrandChallenge 2019, Track-
 
 # Description
 
-## 총 녹음 샘플
+## 녹음 샘플 수
 
-  * 1800개 (음성, 비음성 3:1 비율)
+  * 500개 (음성+드론 400개, 비음성+드론 60개, 드론 40개)
 
 ## 녹음장비
 
-  * Sony PCM-A10, miniDSP UMA-8
+  * Sony PCM-A10
 
 ## 녹음 정보:
  
   * Sampling Rate: 48kHz
   * Sample Bit :16bit
-  * Channel: PCM-A10 (2), UMA-8 (8), 8번 채널은 Dummy
+  * Channel: PCM-A10 (2)
   * 방위각 제어: 턴테이블을 활용하여 20도 간격으로 회전 (0~180도, 총 10회)
   * 재생장치: Genelec 8030B
 
@@ -37,11 +37,6 @@ Public dataset developed by KICT_INTFLOW for IITP AI GrandChallenge 2019, Track-
   * DogBark
   * Bird
   * CarHorn
-
-## 공개 데이터 비율
-
-  * 음성 400개 + 비음성 100개
-
 
 ## 장소 
 
